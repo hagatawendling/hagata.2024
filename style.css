@@ -1,16 +1,21 @@
 body {
-     background-color: rgba(165, 42, 42, 0.884) ;
-   text-align: center ;
-    }
-
-P {
-    color: rgb(255, 255, 255);
+    background-color: rgba(211, 37, 37, 0.817);
+    text-align: center;
+    margin: 0px
 }
 
-.anja{
+header {
+    border-bottom: solid 2px rgb(231, 161, 161);
+    padding: 23px;
+    font-size: 23px;
+    text-decoration: none;
+}
+
+.anja {
     font-style: italic;
+    color: rgb(183, 0, 255);
 }
 
-.pr1{
-    width: 65%;
+.img1 {
+    width: 37%;
 }
